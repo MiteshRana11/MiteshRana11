@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitesh Rana</h1>
 <h3 align="center">🚀 Passionate about Coding | Python & Web Development Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miteshrana11&label=Profile%20views&color=0e75b6&style=flat" alt="miteshrana11" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miteshrana11" alt="miteshrana11" /></a> </p>
 
